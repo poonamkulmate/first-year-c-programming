@@ -1,0 +1,41 @@
+<html> 
+
+<head> 
+
+      <title>  HEllo my name is baka </title>
+
+</head>
+
+<body style bgcolor="red" </body>
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    <heaad>
+        <title bg color=" red"> My first aiml code on this app </title>
+
+    </heaad>
+    <body>
+        <div class="container">
+            <h1>welcome</h1>
+<p> this is my firsst web projects as aiml student</p>
+<hr>
+
+<h3>look at this </h3>
+
+<input type="text" placeholder="typing something here...."><br><br>
+<button type="button"analysis height="200"> </button>
+
+
+    <hr>
+    <h3> what is this called</h3>
+    <ul>
+        <li> python programming       </li>
+ <li> basic statistics</li>
+<li> html and css </li>  
+</ul>
+        </div>
+<hr>
+    </body>
+</html>
