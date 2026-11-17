@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>
+            this is my second program
+        </title>
+    </head>
+    <body>
+        <form>
+            <p>
+                <label for="name"> name </label><br>
+                    <input type="text" id="name"
+                    
+
+                    required minlength="3" maxlenght="30"
+                    placeholder="enter your name">
+
+
+                </label>
+            
+            </p>
+            <p>
+                <label for="email"> email </label>
+                <input type="text" idname="email"
+                required 
+                </label>
+            </p>
+        </form>
+    </body>
+
+</html>
